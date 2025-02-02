@@ -1,4 +1,4 @@
-
+![logo](https://github.com/NishantSingh359/Nishant-Singh/blob/main/Data%20Analytics%20(1).png)
 <h1 align="center">Hi,I'm Nishant Singh</h1>
 <h3 align="center">I'm Data Analytics</h3>
 <img align = "right" alt="coding" width = "300" src ="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif"
